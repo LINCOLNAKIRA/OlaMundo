@@ -10,3 +10,9 @@ MARKDOWN
 
 palavra com **negrito**
 
+Tabelas:
+Num | None | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José| 9,0
+3 | Maria| 8,0
